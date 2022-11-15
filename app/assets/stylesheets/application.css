@@ -31,3 +31,7 @@ nav{
     justify-content: space-between;
     width: 50%;
 }
+
+a{
+    color:inherit;
+}
